@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Engine Repair",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/NxD48D3/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Replace Tire",
+    "price": 500,
+    "time": 1,
+    "img": "https://i.ibb.co/8svWC8L/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Engine Oil Change",
+    "price": 1000,
+    "time": 1,
+    "img": "https://i.ibb.co/PGJg7QT/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Replace Rims",
+    "price": 1500,
+    "time": 2,
+    "img": "https://i.ibb.co/K7FR2b3/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Painting & Polishing",
+    "price": 3000,
+    "time": 4,
+    "img": "https://i.ibb.co/zbJJVTg/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Full Body Checkup",
+    "price": 2500,
+    "time": 2,
+    "img": "https://i.ibb.co/f2jpNqd/6.jpg"
+  }
+]

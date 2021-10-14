@@ -1,0 +1,16 @@
+.card {
+  border-radius: 25px !important;
+  border: none;
+}
+.service {
+  background-color: #aa0c27 !important;
+  color: #fff !important;
+}
+
+.price {
+  font-weight: bold !important;
+}
+.br {
+  border-radius: 0 0 0.25rem 0.25rem;
+  width: 100%;
+}
